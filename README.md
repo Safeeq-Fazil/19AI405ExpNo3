@@ -1,6 +1,6 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: SAFEEQ FAZIL A</h3>
+<h3>Register Number: 212222240086 </h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -169,6 +169,7 @@ print(traversedpath)
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
+
 ## OUTPUT:
 ![image](https://github.com/Safeeq-Fazil/19AI405ExpNo3/assets/118680361/913f6e0b-9210-4c78-b2d3-11c23c931382)
 
